@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Initializing creates a .git folder to keep track of revisions
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The repository holds any committed files. The files are sent to the staging area first as a holding place before actually committing them. The value is in being able to see what files you will modify when committing and not committing all the files at once.
