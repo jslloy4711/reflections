@@ -17,3 +17,7 @@ It provides the ability to see changes made by other people and even offline tel
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 I would have to interact one on one with the other people. That would be easier to work out issues quicker, but also inconvenient at times when they are unavailable to work on a project.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+You would want a different branch to allow for changes to logic or to specific areas of the files without affecting what the master branch can still do. It is more for feature additions. 
