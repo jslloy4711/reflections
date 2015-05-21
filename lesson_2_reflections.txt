@@ -5,3 +5,23 @@ Initializing creates a .git folder to keep track of revisions
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The repository holds any committed files. The files are sent to the staging area first as a holding place before actually committing them. The value is in being able to see what files you will modify when committing and not committing all the files at once.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+If you know what files were modified for the logical change, you can commit only the necessary ones for the changes required.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Major changes in logic or for newer versions. It would help organize thoughts of how code would be modified and the ramifications of that code. 
+
+How do the diagrams help you visualize the branch structure?
+
+It helped to see where the parents are and when there are some left off of the branch diagram.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+You gain a new master branch that contains edits from both branches. We represent it the way we do to see the parental history and what the branch looks like.
+
+What are the pros and cons of Git's automatic merging vs. always doing the merges manually?
+
+It saves time in the long run. It helps identify conflicts that would otherwise take a very long time to find. 
