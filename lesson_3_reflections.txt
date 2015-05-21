@@ -13,3 +13,7 @@ Clones are on the local machine, either when copying directly on the local machi
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 It provides the ability to see changes made by other people and even offline tells you if you are up to date or not.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I would have to interact one on one with the other people. That would be easier to work out issues quicker, but also inconvenient at times when they are unavailable to work on a project.
